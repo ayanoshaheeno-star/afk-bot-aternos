@@ -8,7 +8,7 @@
   "server": {
     "ip": "star_smp_s1.aterno.me",
     "port": 40986,
-    "version": "1.21.11"
+    "version": "26.1.1"
   },
   "position": {
     "enabled": true,
